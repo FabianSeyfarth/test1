@@ -3,6 +3,7 @@
   ##Ein Testverzeichnis
     ### Heelo world!
   punkt:
-  a
-  b
-  c
+  -a
+  -b
+  -c
+  -d
